@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Maruti Soni</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/VersionMaruti</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/maruti-soni-309383228/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Guru Gobind Singh Indraprastha University, New delhi.</td>
+      </tr>
+    </table>
